@@ -1,22 +1,34 @@
 ### 👋 Hello GitHub 
 
 ---
+### 🙋‍♂️ About me:
 
-<details><summary>About me: </summary>
-· 👨‍🦱 --> Javier García <br>
-· 🌱 --> 19-yo <br>
-· 💬 --> Live on Granada, Spain <br>
-· 🎓 --> SO,  and Network Technician <br>
+<details><summary><b></b></summary>
+· 👨‍🦱 ⇒ Javier García <br>
+· 🌱 ⇒ 19-yo <br>
+· 🏳️ ⇒ Live on Granada, Spain <br>
+· 🎓 ⇒ OS and Network Technician <br>
 </details>
 
-<!--
+---
+### 🤸 Social Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [x] Team-Mate
+- [x] Patience
+- [x] Positivity
+- [x] Spreading Happyness
+- [ ] Giving up
+
+---
+### 💻 Programming Skills
+- Java
+- Python
+- HTML
+- CSS
+- PHP
+  - Laravel
+- JavaScript
+  - jQuery
+- Bash
+
+---
