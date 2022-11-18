@@ -3,12 +3,10 @@
 ---
 ### 🙋‍♂️ About me:
 
-<details><summary><b></b></summary>
 · 👨‍🦱 ⇒ Javier García <br>
 · 🌱 ⇒ 19-yo <br>
 · 🏳️ ⇒ Live on Granada, Spain <br>
 · 🎓 ⇒ OS and Network Technician <br>
-</details>
 
 ---
 ### 🤸 Social Skills
