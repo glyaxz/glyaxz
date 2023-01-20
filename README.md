@@ -29,4 +29,10 @@
   - jQuery
 - Bash
 
+### 💻 SYSAdmin Skills
+- Docker
+- Virtualization
+- Linux-based Services
+- Windows-based Services
+- Active Directory
 ---
