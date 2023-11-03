@@ -4,7 +4,7 @@
 ### 🙋‍♂️ About me:
 
 · 👨‍🦱 ⇒ Javier García <br>
-· 🌱 ⇒ 19-yo <br>
+· 🌱 ⇒ 20-yo <br>
 · 🏳️ ⇒ Live on Granada, Spain <br>
 · 🎓 ⇒ OS and Network Technician <br>
 
@@ -28,6 +28,7 @@
 - JavaScript
   - jQuery
 - Bash
+  
 
 ### 💻 SYSAdmin Skills
 - Docker
@@ -35,4 +36,6 @@
 - Linux-based Services
 - Windows-based Services
 - Active Directory
+- Kubernetes
+- Helm
 ---
