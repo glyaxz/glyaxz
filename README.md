@@ -6,7 +6,7 @@
 · 👨‍🦱 ⇒ Javier García <br>
 · 🌱 ⇒ 20-yo <br>
 · 🏳️ ⇒ Live on Granada, Spain <br>
-· 🎓 ⇒ OS and Network Technician <br>
+· 🎓 ⇒ Multiplatform Apps Developer and OS & Network Technician <br>
 
 ---
 ### 🤸 Social Skills
